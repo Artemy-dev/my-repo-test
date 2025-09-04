@@ -1,0 +1,13 @@
+.venv/
+venv/
+
+__pycache__/
+*.log
+*.tmp
+
+.vscode/
+
+Thumb.db
+
+config.py
+.env
